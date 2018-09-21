@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-Im a newtwork engineer from Brisbane Australia and would like to mingle in some software items. Running L plates on my bumper. 
+Newtwork engineer from Brisbane Australia who would like to mingle in some software. Running L plates on my bumper. 
